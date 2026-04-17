@@ -9,12 +9,14 @@ MacBook Pro Early 2015 yang masih menjalankan macOS Yosemite sudah tidak menerim
 ## Apa yang Dibahas
 
 - ✅ Pengecekan kompatibilitas perangkat
-- ✅ Persiapan ruang penyimpanan
+- ✅ Persiapan ruang penyimpanan (minimal 35 GB)
 - ✅ Backup data dengan Time Machine atau manual
-- ✅ Jalur upgrade bertahap (Yosemite → El Capitan → Monterey)
-- ✅ Proses instalasi step-by-step
-- ✅ Setup pasca-instalasi
-- ✅ Troubleshooting & langkah darurat
+- ✅ Upgrade bertahap: **Yosemite → El Capitan → Monterey**
+- ✅ Proses instalasi step-by-step (kedua tahap)
+- ✅ Metode alternatif: Bootable USB
+- ✅ Setup awal macOS Monterey
+- ✅ Pasca-instalasi: verifikasi, NVRAM/SMC reset
+- ✅ Troubleshooting lengkap (8 skenario)
 
 ## Mulai
 
@@ -29,16 +31,19 @@ Baca panduan lengkapnya di:
 | Model | MacBook Pro Retina 13-inch Early 2015 |
 | Model Number | A1502 / EMC 2835 |
 | macOS Awal | OS X Yosemite 10.10.5 |
-| macOS Target | macOS 12 Monterey |
-| Estimasi Waktu | 3–5 jam |
+| macOS Target | macOS Monterey 12.7.6 |
+| Jalur Upgrade | Yosemite → El Capitan → Monterey |
+| Estimasi Waktu | 2–4 jam |
 
 ## Referensi Resmi
 
-- [macOS Monterey Compatibility — Apple Support](https://support.apple.com/en-us/102765)
-- [MacBook Pro Early 2015 Specs — Apple Support](https://support.apple.com/en-us/111959)
-- [How to upgrade macOS — Apple Support](https://support.apple.com/en-us/105113)
+- [macOS Monterey Compatibility — Apple Support](https://support.apple.com/en-us/103260)
+- [How to download and install macOS — Apple Support](https://support.apple.com/en-us/102662)
+- [Create a bootable installer for macOS — Apple Support](https://support.apple.com/en-us/101578)
+- [How to reinstall macOS — Apple Support](https://support.apple.com/en-us/102655)
+- [Start up from macOS Recovery — Apple Support](https://support.apple.com/en-us/102518)
 - [Back up with Time Machine — Apple Support](https://support.apple.com/en-us/104984)
-- [macOS Recovery — Apple Support](https://support.apple.com/en-us/102603)
+- [MacBook Pro Early 2015 Specs — Apple Support](https://support.apple.com/en-us/111959)
 
 ## Disclaimer
 
