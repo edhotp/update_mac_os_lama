@@ -380,6 +380,69 @@ Zonasi PPDB Jakarta berbasis **kelurahan tempat tinggal sesuai KK**. Jika rumah 
 
 > 💡 **Tip:** PPDB Jakarta memprioritaskan **jarak + usia**. Siswa lebih tua (umur lebih dekat ke 18 tahun) mendapat prioritas di zonasi.
 
+### 7d. Data Rata-rata Nilai SPMB Tahun Sebelumnya (SPMB 2025)
+
+Data berikut adalah **rekap statistik resmi pendaftar yang DITERIMA** pada **SPMB DKI Jakarta 2025** untuk **Jalur Prestasi Nilai Rapor** — jalur yang paling banyak dijadikan acuan calon orang tua karena murni menggunakan nilai akademik. Data berasal dari aggregator publik yang menarik dari sistem SPMB resmi (lihat [10h](#10h-sumber-data-rata-rata-nilai-spmb-tahun-sebelumnya)).
+
+#### Tabel Skor Jalur Prestasi Nilai Rapor — SPMB 2025
+
+| Sekolah  | NPSN     | Terendah | Tertinggi | **Rata-rata** | Kuota Rapor | Total Kuota Semua Jalur |
+|----------|----------|---------:|----------:|--------------:|------------:|------------------------:|
+| SMAN 34  | 20102214 | **62.75** | 87.71    | **67.52** 🔝  | 70 siswa    | 205 siswa               |
+| SMAN 38  | 20102212 | 60.94    | 77.06     | **63.57**     | 62 siswa    | 187 siswa               |
+| SMAN 49  | 20102592 | 60.09    | 76.20     | **61.40**     | 53 siswa    | 159 siswa               |
+
+**Konteks pembanding (SMA Negeri Jaksel lain, Jalur Rapor SPMB 2025):**
+
+| Sekolah  | Terendah | Rata-rata | Catatan |
+|----------|---------:|----------:|---------|
+| SMAN 3 (Setia Budi)   | 60.00 | 61.27 | Sekolah favorit historis |
+| SMAN 26 (Tebet)       | 61.48 | 64.40 | Favorit Jaksel |
+| SMAN 109 (Jagakarsa)  | 58.37 | 59.60 | Tetangga SMAN 38/49 |
+| SMAN 29 (Kebayoran Lama) | 58.82 | 59.79 | — |
+| SMAN 32 (Kebayoran Lama) | 57.32 | 58.27 | — |
+| SMAN 37 (Tebet)       | 57.59 | 58.57 | — |
+| SMAN 43 (Setia Budi)  | 57.67 | 58.61 | — |
+| SMAN 46 (Kebayoran Baru) | 56.93 | 57.97 | — |
+
+#### Cara Membaca Skor SPMB
+
+Skor SPMB DKI Jakarta dihitung dari kombinasi:
+- **Rata-rata nilai rapor** semester 1–5 (mata pelajaran inti)
+- **Bobot akreditasi SMP asal** (sekolah akreditasi A bobot lebih tinggi)
+- Skala akhir: **0–100 poin**
+
+> ⚠️ **Penting:** Skor "terendah" adalah skor **siswa terakhir yang masih lolos** (passing grade efektif). Calon murid wajib **menargetkan skor ≥ skor terendah + buffer 2–3 poin** untuk aman.
+
+#### Analisis & Implikasi untuk PPDB 2026
+
+1. **SMAN 34 jelas paling kompetitif** di antara tiga pilihan:
+   - Skor **terendah 62.75** (≈ 2 poin di atas SMAN 38, ≈ 2,7 poin di atas SMAN 49)
+   - Rata-rata **67.52** (4 poin di atas SMAN 38, 6 poin di atas SMAN 49)
+   - Skor tertinggi mencapai **87.71** → menandakan ada siswa unggul yang memilih SMAN 34 sebagai pilihan #1
+   - **Target aman: skor rapor ≥ 65 + akreditasi SMP A**
+
+2. **SMAN 38 di tier menengah-atas Jaksel:**
+   - Rata-rata **63.57** menempatkannya di kelompok favorit kedua (di bawah SMAN 26 & SMAN 34, setara/di atas SMAN 3)
+   - Tertinggi 77.06 menunjukkan ada siswa berprestasi yang memilih SMAN 38
+   - **Target aman: skor rapor ≥ 63**
+
+3. **SMAN 49 paling "terjangkau" dari 3 pilihan:**
+   - Rata-rata **61.40** masih di atas mayoritas SMAN Jaksel (SMAN 109, 29, 32, 37, 43, 46)
+   - Tetap kompetitif tetapi peluang lolos lebih realistis bagi siswa skor menengah
+   - **Target aman: skor rapor ≥ 62**
+
+4. **Catatan penting tentang jalur lain:**
+   - Data di atas **HANYA Jalur Prestasi Nilai Rapor**. Jalur lain (KETM, MBK, Mutasi, Kejuaraan) memiliki kuota & mekanisme berbeda
+   - Jalur **KETM** (Keluarga Tidak Mampu) memiliki kuota terbesar di setiap sekolah (≈ 35–40% dari total)
+   - Jalur **Kejuaraan Akademik/Non-Akademik** menggunakan skor sertifikat, bukan rapor
+
+5. **Tren yang perlu dicermati untuk SPMB 2026:**
+   - Asumsikan passing grade **naik 1–3 poin** karena: (a) inflasi nilai rapor SMP, (b) makin banyak orang tua paham strategi
+   - Jangan hanya andalkan satu jalur — daftarkan anak di **2–3 jalur pararel** (Rapor + Zonasi/KETM jika eligible + Kejuaraan jika ada sertifikat)
+
+> 📌 **Disclaimer data:** Angka di atas berasal dari aggregator pihak ketiga ([informasi-spmb.site](https://informasi-spmb.site/spmb/dki-jakarta)) yang menarik data dari sistem SPMB DKI. Untuk verifikasi resmi, cek langsung [spmb.jakarta.go.id](https://spmb.jakarta.go.id) saat PPDB 2026 dibuka (Juni 2026). **Data 2026 belum tersedia** — gunakan data 2025 sebagai baseline.
+
 ---
 
 ## 8. Rekomendasi Berdasarkan Profil Anak
@@ -551,6 +614,22 @@ Skor UTBK indikatif untuk prodi top UI/UGM/ITB di bab 6c didasarkan pada kompila
 - [Zenius — Analisis skor UTBK](https://www.zenius.net/blog/skor-utbk-aman)
 
 > **Disclaimer skor:** Angka skor UTBK aman adalah **perkiraan** berdasarkan data historis. Passing grade aktual tiap tahun berbeda tergantung (a) jumlah pendaftar, (b) tingkat kesulitan soal, (c) persaingan per prodi.
+
+### 10h. Sumber Data Rata-rata Nilai SPMB Tahun Sebelumnya
+
+Data rekap statistik pendaftar diterima per sekolah (terendah/tertinggi/rata-rata + kuota per jalur) di **Bab 7d** diambil dari aggregator publik berikut, yang menarik data dari sistem SPMB DKI Jakarta resmi:
+
+- **SMAN 34 (NPSN 20102214):** [https://informasi-spmb.site/spmb/dki-jakarta/sekolah/20102214](https://informasi-spmb.site/spmb/dki-jakarta/sekolah/20102214)
+- **SMAN 38 (NPSN 20102212):** [https://informasi-spmb.site/spmb/dki-jakarta/sekolah/20102212](https://informasi-spmb.site/spmb/dki-jakarta/sekolah/20102212)
+- **SMAN 49 (NPSN 20102592):** [https://informasi-spmb.site/spmb/dki-jakarta/sekolah/20102592](https://informasi-spmb.site/spmb/dki-jakarta/sekolah/20102592)
+
+**Sumber resmi (untuk verifikasi & data 2026):**
+
+- [SPMB DKI Jakarta — Portal Resmi](https://spmb.jakarta.go.id) — situs resmi PPDB/SPMB Pemprov DKI Jakarta (data 2026 dibuka Juni 2026)
+- [Referensi Data Pendidikan — Kemendikdasmen](https://referensi.data.kemendikdasmen.go.id) — verifikasi NPSN & profil resmi sekolah
+- [Dapodik Kemendikdasmen](https://dapo.kemendikdasmen.go.id) — data pokok pendidikan resmi
+
+> **Disclaimer aggregator:** [informasi-spmb.site](https://informasi-spmb.site) bukan situs resmi pemerintah ("Dikembangkan oleh Team IT Warga Sipil 2026"). Data umumnya akurat karena bersumber dari portal SPMB resmi, tetapi untuk keputusan final **wajib cross-check ke spmb.jakarta.go.id**.
 
 ---
 
